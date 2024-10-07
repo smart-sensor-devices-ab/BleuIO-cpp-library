@@ -11,4 +11,4 @@ This C++ library simplifies communication with the BleuIO Bluetooth Low Energy (
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BleuIO-Library.git
+   git clone https://github.com/smart-sensor-devices-ab/BleuIO-cpp-library.git
