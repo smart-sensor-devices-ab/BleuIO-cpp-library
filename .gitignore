@@ -1,0 +1,13 @@
+# Ignore build files
+build/
+*.o
+*.out
+*.exe
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Ignore generated Makefiles
+Makefile
